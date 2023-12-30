@@ -113,7 +113,7 @@
 
 ## 3.3.1 系統用例分析
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/3.1.png)
+>![main](https://github.com/11024247/system/blob/main/3-1-1.png)
 
 >圖3-1 系統用例圖
 
@@ -125,19 +125,19 @@
 
 >表3-1 顧客登入使用案例說明表
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/3-1.png)
+>![main](https://github.com/11024247/system/blob/main/3-1.png)
 
 >2.商品管理功能用例是對前台顯示的商品資訊進行維護等操作。 詳細描述如下表 3-2所示：
 
 >表3-2 商品管理功能用例描述
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/3-2.png)
+>![main](https://github.com/11024247/system/blob/main/3-2.png)
 
 >3.購物車用例對需要買的商品進行添加購物車操作，瀏覽商品訊息，對商品進行購買。 詳細描述如下表 3-3所示：
 
 >表3-3 購物車用例描述
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/3-3.png)
+>![main](https://github.com/11024247/system/blob/main/3-3.png)
 
 ## 3.2 需求分析
 
@@ -229,7 +229,7 @@
 
 >線上零食銷售系統，主要有兩大實體，顧客和管理員。 管理員和顧客是一對多的聯繫，系統實例類別及關係如圖4-1所示:
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/4.1.png)
+>![main](https://github.com/11024247/system/blob/main/4.1.1.png)
 
 >圖4-1 系統實體類別關係圖
 
@@ -247,7 +247,7 @@
   
   >4.結束進程。 如圖4-2所示:
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/4.2.png)
+>![main](https://github.com/11024247/system/blob/main/4.2.2.png)
   
 >圖4-2 購物車活動圖
 
@@ -263,7 +263,7 @@
 
   >4.結束進程。 如圖4-3所示:
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/4.3.png)
+>![main](https://github.com/11024247/system/blob/main/4.3.3.png)
 
 >圖4-3 商品管理活動圖
 
@@ -271,7 +271,7 @@
 
 >購物車時序圖是顧客選擇商品後對商品進行瀏覽，進行購買後會回傳下單結果。 如圖4-4所示：
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/4.4.png)
+>![main](https://github.com/11024247/system/blob/main/4.4.4.png)
 
 >圖4-4 購物車時序圖
 
@@ -279,7 +279,7 @@
 
 >商品管理時序圖是管理員進入系統前台介面對商品進行添加，刪除，查詢，維護等操作。 如圖4-5 所示：
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/4.5.png)
+>![main](https://github.com/11024247/system/blob/main/4.5.5.png)
  
 >圖4-5 商品管理時序圖
 
@@ -309,14 +309,15 @@
 ## 5.2 商品資訊管理模組實現
 >商品資訊管理頁面列出了新增的商品信息，包括商品名稱，商品價格，商品數量，商品類型。 此系統前景頁如圖5-1所示：
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/5.1.png)
+>![main](https://github.com/11024247/system/blob/main/5.1.png)
+
 
 >圖5-1 商品資訊管理模組效果圖
 
 ## 5.3 管理購物車模組實現
 >本單元實現購物車的資訊管理功能。 點擊網站瀏覽購物車並進入購物車的管理介面，顯示目前購買的零食信息，顧客可以刪除購物車中的特定記錄，或者可以創建請求並提交購物車的內容，效果圖如圖5-2所示 。
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/5.2.png)
+>![main](https://github.com/11024247/system/blob/main/5.2.png)
 
 >圖5-2 管理購物車效果圖
 
@@ -331,14 +332,14 @@
 
 >1. 建立等價類表
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/6-2.png)
+>![main](https://github.com/11024247/system/blob/main/6-1.png)
    
 >表 6-1 等價類例表
 
 
 >2. 設計測試案例
 
->![image](https://github.com/muchen0926/Final_report/blob/main/image/6-2.png)
+>![main](https://github.com/11024247/system/blob/main/6-2.png)
 
 >表 6-2 測試案例表
 
